@@ -70,13 +70,10 @@ Os modelos foram avaliados utilizando métricas de **acurácia**, permitindo a e
 Forecasting_With_Machine_Learning/
 │
 ├── README.md # Documentação do projeto
-├── inicial.ipynb # Notebook com análise, modelagem e previsões
+├── inicial.ipynb # Jupyter Notebook com análise, modelagem e previsões
 ├── clientes.csv # Base de dados histórica dos clientes
 ├── novos_clientes.csv # Base de dados para previsões futuras
 ```
-
----
-
 
 ---
 
