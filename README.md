@@ -4,9 +4,9 @@
 Este projeto apresenta uma **análise de dados completa aliada à construção de um modelo de Machine Learning**, utilizando **Python, Pandas e Scikit-learn**, com o objetivo de **prever automaticamente o score de crédito de clientes**.
 
 A solução analisa o perfil financeiro e comportamental dos clientes e classifica o **score de crédito em três categorias**:
-- **Ruim**
-- **Ok**
-- **Bom**
+- **Poor**
+- **Standard**
+- **Good**
 
 O projeto simula um **cenário real de risco de crédito**, muito comum em instituições financeiras, fintechs e áreas de crédito, demonstrando a aplicação prática de **Data Analytics, Machine Learning e tomada de decisão orientada a dados**.
 
